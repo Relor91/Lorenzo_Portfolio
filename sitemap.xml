@@ -4,13 +4,20 @@
   
   <url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/</loc>
-    <lastmod>2020-05-12T10:22:14-06:18</lastmod>
+    <lastmod>2020-06-18T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</loc>
+    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</loc>
+    <lastmod>2020-06-18T10:21:10-03:56</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-2/</loc>
     <lastmod>2020-05-12T10:22:14-06:18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,14 +31,7 @@
   </url>
   
   <url>
-    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-2/</loc>
-    <lastmod>2020-01-07T11:49:11-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</loc>
+    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</loc>
     <lastmod>2020-01-07T11:49:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
