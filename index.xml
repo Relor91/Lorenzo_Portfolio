@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Lorenzo Reitano</title>
+    <link>https://relor91.github.io/Lorenzo_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Lorenzo Reitano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://relor91.github.io/Lorenzo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Tool: Machine Learning Drug Estimator</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 07 Jan 2020 11:49:11 -0400</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</guid>
+      <description> Created a Decision Tree algorithm that estimates the best Drug (accuracy score 98%) for patients given Age, Sex, Blood Pressure, Cholesterol and Sodium to Potassium Ratio. Pre-Processed the data and converted categorical values into dummy/indicator variables. Split the data with a Test Size of 0.3. Optimized the Decision Tree with an Entropy criterion and a Max Depth of 4 to obtain the best model. Plotted the Model Results.   Link to GitHub Repository  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/contact/</guid>
+      <description>Follow me on LinkedIn and GitHub.
+   Platform	URL      LinkedIn: https://www.linkedin.com/in/lorenzo-reitano-9b1a33108/   GitHub: https://github.com/Relor91    This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.</description>
+    </item>
+    
+  </channel>
+</rss>
