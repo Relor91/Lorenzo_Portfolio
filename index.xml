@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>ML Classification: Customer Churn</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 18 Jun 2020 10:21:10 -0356</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</guid>
+      <description>Used a Logistic Regression algorithm that predicts if clients will stay with the company (Log loss 60%), given Tenure, Age, Address, Income, Education, Employment and Equip. Pre-Processed the data by filtering for the most appropriate variables. Split the data with a Test Size of 0.2. Optimized the Logistic Regression algorithm by using an Liblinear Solver and a Inverse of regularization strength of 0.01 to obtain the best model. Plotted a Confusion Matrix of the Model Results.</description>
+    </item>
+    
+    <item>
       <title>ML Clustering: Customer Segmentation</title>
       <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-2/</link>
       <pubDate>Tue, 12 May 2020 10:22:14 -0618</pubDate>

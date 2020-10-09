@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Lorenzo Reitano</title>
+    <title>Works on Lorenzo Reitano</title>
     <link>https://relor91.github.io/Lorenzo_Portfolio/post/</link>
-    <description>Recent content in Projects on Lorenzo Reitano</description>
+    <description>Recent content in Works on Lorenzo Reitano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://relor91.github.io/Lorenzo_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</guid>
       <description>Created a Support Vector Machines algorithm that predicts if patient&amp;rsquo;s cells are benign or malignant(F1-Score 97%) given Clump thickness, Uniformity of cell size, Uniformity of cell shape, Marginal adhesion, Single epithelial cell size, Bare nuclei, Bland chromatin, Normal nucleoli and Mitoses. Pre-Processed the data and dropped categorical values under Bare nuclei variable. Split the data with a Test Size of 0.2. Optimized the SVM algorithm by using an Polynomial Kernel to obtain the best model.</description>
+    </item>
+    
+    <item>
+      <title>ML Classification: Customer Churn</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 18 Jun 2020 10:21:10 -0356</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</guid>
+      <description>Used a Logistic Regression algorithm that predicts if clients will stay with the company (Log loss 60%), given Tenure, Age, Address, Income, Education, Employment and Equip. Pre-Processed the data by filtering for the most appropriate variables. Split the data with a Test Size of 0.2. Optimized the Logistic Regression algorithm by using an Liblinear Solver and a Inverse of regularization strength of 0.01 to obtain the best model. Plotted a Confusion Matrix of the Model Results.</description>
     </item>
     
     <item>
