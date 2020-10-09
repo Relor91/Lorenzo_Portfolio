@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/</loc>
-    <lastmod>2020-06-18T10:21:10-03:56</lastmod>
+    <lastmod>2020-08-13T10:17:11-02:34</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-5/</loc>
+    <lastmod>2020-08-13T10:17:11-02:34</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
