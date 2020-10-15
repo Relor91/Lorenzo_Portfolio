@@ -6,38 +6,38 @@
     <description>Recent content in Data Analytics Portfolio on Lorenzo Reitano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 10:17:11 -0234</lastBuildDate><atom:link href="https://relor91.github.io/Lorenzo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Sep 2020 10:21:10 -0356</lastBuildDate><atom:link href="https://relor91.github.io/Lorenzo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML Clustering: Weather Stations</title>
       <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-5/</link>
-      <pubDate>Thu, 13 Aug 2020 10:17:11 -0234</pubDate>
+      <pubDate>Mon, 28 Sep 2020 10:21:10 -0356</pubDate>
       
       <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-5/</guid>
       <description> Used a DBSCAN algorithm that that clusters Weather Stations by location and precipitation. Optimized the DBSCAN algorithm by using selecting for the most appropriate Epsilon and a Minimum Number of Samples to obtain the best clustering. Plotted a Folium Map of the Clustered Results.   Link to GitHub Repository  </description>
     </item>
     
     <item>
-      <title>ML Classification: Cancer Cells Prediction</title>
-      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</link>
-      <pubDate>Thu, 18 Jun 2020 10:21:10 -0356</pubDate>
-      
-      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</guid>
-      <description>Used a Support Vector Machines algorithm that predicts if patient&amp;rsquo;s cells are benign or malignant(F1-Score 97%) given Clump thickness, Uniformity of cell size, Uniformity of cell shape, Marginal adhesion, Single epithelial cell size, Bare nuclei, Bland chromatin, Normal nucleoli and Mitoses. Pre-Processed the data and dropped categorical values under Bare nuclei variable. Split the data with a Test Size of 0.2. Optimized the SVM algorithm by using an Polynomial Kernel to obtain the best model.</description>
-    </item>
-    
-    <item>
       <title>ML Classification: Customer Churn</title>
       <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</link>
-      <pubDate>Thu, 18 Jun 2020 10:21:10 -0356</pubDate>
+      <pubDate>Mon, 21 Sep 2020 10:21:10 -0356</pubDate>
       
       <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</guid>
       <description>Used a Logistic Regression algorithm that predicts if clients will stay with the company (Log loss 60%), given Tenure, Age, Address, Income, Education, Employment and Equip. Pre-Processed the data by filtering for the most appropriate variables. Split the data with a Test Size of 0.2. Optimized the Logistic Regression algorithm by using an Liblinear Solver and a Inverse of regularization strength of 0.01 to obtain the best model. Plotted a Confusion Matrix of the Model Results.</description>
     </item>
     
     <item>
+      <title>ML Classification: Cancer Cells Prediction</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 14 Sep 2020 10:21:10 -0356</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</guid>
+      <description>Used a Support Vector Machines algorithm that predicts if patient&amp;rsquo;s cells are benign or malignant(F1-Score 97%) given Clump thickness, Uniformity of cell size, Uniformity of cell shape, Marginal adhesion, Single epithelial cell size, Bare nuclei, Bland chromatin, Normal nucleoli and Mitoses. Pre-Processed the data and dropped categorical values under Bare nuclei variable. Split the data with a Test Size of 0.2. Optimized the SVM algorithm by using an Polynomial Kernel to obtain the best model.</description>
+    </item>
+    
+    <item>
       <title>ML Clustering: Customer Segmentation</title>
       <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-2/</link>
-      <pubDate>Tue, 12 May 2020 10:22:14 -0618</pubDate>
+      <pubDate>Mon, 07 Sep 2020 10:21:10 -0356</pubDate>
       
       <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-2/</guid>
       <description> Used a K-Means algorithm that clusters customers into groups based on Age, Education, Employment Years, Income and Debt. Pre-Processed the data deleting categorical variables. Normalized the data using the Standard Scaler. Optimized the K-Means number of Clusters to 3 and number of consecutive runs in terms of inertia to 12, in order to achieve the best model. 3-D Plotted the Model Results.   Link to GitHub Repository  </description>
@@ -46,7 +46,7 @@
     <item>
       <title>ML Classification: Drug Estimator</title>
       <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</link>
-      <pubDate>Tue, 07 Jan 2020 11:49:11 -0400</pubDate>
+      <pubDate>Tue, 01 Sep 2020 10:21:10 -0356</pubDate>
       
       <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</guid>
       <description> Used a Decision Tree algorithm that estimates the best Drug (accuracy score 98%) for patients given Age, Sex, Blood Pressure, Cholesterol and Sodium to Potassium Ratio. Pre-Processed the data and converted categorical values into dummy/indicator variables. Split the data with a Test Size of 0.3. Optimized the Decision Tree with an Entropy criterion and a Max Depth of 4 to obtain the best model. Plotted the Model Results.   Link to GitHub Repository  </description>
