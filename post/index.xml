@@ -52,5 +52,14 @@
       <description> Used a Decision Tree algorithm that estimates the best Drug (accuracy score 98%) for patients given Age, Sex, Blood Pressure, Cholesterol and Sodium to Potassium Ratio. Pre-Processed the data and converted categorical values into dummy/indicator variables. Split the data with a Test Size of 0.3. Optimized the Decision Tree with an Entropy criterion and a Max Depth of 4 to obtain the best model. Plotted the Model Results.   Link to GitHub Repository  </description>
     </item>
     
+    <item>
+      <title>Blockchain: Mining</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 31 Jan 2020 10:15:18 -0436</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-6/</guid>
+      <description>Created a BLOCK Class and a Mine algorithm. The BLOCKS are encrypted with the SHA256 hash function and each block has it&amp;rsquo;s difficulty increased by 1 starting from 4 zeros. Mining will loop through all the blocks guessing their Hash and will stop when the guessed hash starts with the number of zeros previously set by the Mining Function, after that it will attach the Block to the Blockchain. The function is programmed to fail if the Nonce reaches 1 × 10⁹ trials.</description>
+    </item>
+    
   </channel>
 </rss>

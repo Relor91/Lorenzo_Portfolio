@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Blockchain: Mining</title>
+      <link>https://relor91.github.io/Lorenzo_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 31 Jan 2020 10:15:18 -0436</pubDate>
+      
+      <guid>https://relor91.github.io/Lorenzo_Portfolio/post/project-6/</guid>
+      <description>Created a BLOCK Class and a Mine algorithm. The BLOCKS are encrypted with the SHA256 hash function and each block has it&amp;rsquo;s difficulty increased by 1 starting from 4 zeros. Mining will loop through all the blocks guessing their Hash and will stop when the guessed hash starts with the number of zeros previously set by the Mining Function, after that it will attach the Block to the Blockchain. The function is programmed to fail if the Nonce reaches 1 × 10⁹ trials.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://relor91.github.io/Lorenzo_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
