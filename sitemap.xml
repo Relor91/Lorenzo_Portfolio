@@ -1,85 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/</loc>
     <lastmod>2020-09-28T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-5/</loc>
     <lastmod>2020-09-28T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-4/</loc>
     <lastmod>2020-09-21T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-3/</loc>
     <lastmod>2020-09-14T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-2/</loc>
     <lastmod>2020-09-07T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-1/</loc>
     <lastmod>2020-09-01T10:21:10-03:56</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/</loc>
     <lastmod>2020-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/post/project-6/</loc>
     <lastmod>2020-01-31T10:15:18-04:36</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://relor91.github.io/Lorenzo_Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
